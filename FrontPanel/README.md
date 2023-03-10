@@ -7,3 +7,6 @@
 ### Front view - FrontPanel_Front.png
 ### Back View - FrontPanel_Back.png
 
+
+![FrontPanel Front](https://github.com/g0orx/T41-EP/FrontPanel/blob/main/FrontPanel_Front.png)
+![FrontPanel Back](https://github.com/g0orx/T41-EP/FrontPanel/blob/main/FrontPanel_Back.png)
