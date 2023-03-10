@@ -8,3 +8,5 @@ https://groups.io/g/SoftwareControlledHamRadio
 ### Front Panel using MCP23017 port expanders.
 
 ### Power Supply board with 20 pin ATX socket to allow using PC power supply like the PicoPSU and Speaker connection.
+
+See Wiki for more information - https://github.com/g0orx/T41-EP/wiki
